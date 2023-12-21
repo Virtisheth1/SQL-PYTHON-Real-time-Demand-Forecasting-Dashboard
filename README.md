@@ -1,4 +1,4 @@
-our team spearheaded a transformative project centered on developing a real-time Demand Forecasting Dashboard for cafeteria operations. Leveraging Tableau-based visualization workflows, 
+Our team spearheaded a transformative project centered on developing a real-time Demand Forecasting Dashboard for cafeteria operations. Leveraging Tableau-based visualization workflows, 
 we facilitated daily and seasonal insights into food item demand, enabling informed decision-making on inventory, resource allocation, and human capital management. Our implementation of a dynamic demand forecasting model, powered by 
 machine learning algorithms and predictive analytics, yielded impressive results. We achieved a substantial 20% reduction in food waste by accurately predicting demand patterns, a pivotal milestone in enhancing operational efficiency.
 
